@@ -1,6 +1,6 @@
 /**
  * Humidity, Temperature and lightning controlled by Arduino Uno with parametrizable setting through LCD screen
- * Author: Alexandre Tchourbassoff 
+ * @Author: Alexandre Tchourbassoff 
  **/
 
 // ************** Import Libraries **************
