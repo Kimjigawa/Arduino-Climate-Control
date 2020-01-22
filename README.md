@@ -1,5 +1,5 @@
 # Arduino Climate Control
-Arduino Uno program design to regulate the temperature, humidity and lightning of a small control environment with settings parametrizable through LCD screen menu and rotary encoder.  
+Arduino Uno program design to regulate the temperature, humidity and lightning of a small controlled environment with settings parametrizable through LCD screen menu and rotary encoder.  
 
 
 Available settings: Temperature (ON/OFF & target Temp), Relative Humidity (ON/OFF & target Hum), lightning schedule (ON/OFF & daily hours)
