@@ -1,4 +1,4 @@
-# Arduino Controlled Environment
+# Arduino Climate Control
 Arduino Uno program design to regulate the temperature, humidity and lightning of a small control environment with settings parametrizable through LCD screen menu and rotary encoder.  
 
 
