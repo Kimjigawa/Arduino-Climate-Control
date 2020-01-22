@@ -1,6 +1,6 @@
 /**
  * Functions used for the LCD Screen
- * Author: Alexandre Tchourbassoff 
+ * @Author: Alexandre Tchourbassoff 
  **/
 
 // ************************************************************************* LCD *************************************************************************
