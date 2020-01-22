@@ -1,2 +1,2 @@
 # Arduino Control Environment
-Arduino program design to regulate the temperature, humidity and lightning of a small control environment
+Arduino Nano program design to regulate the temperature, humidity and lightning of a small control environment with settings parametrizable through LCD screen
